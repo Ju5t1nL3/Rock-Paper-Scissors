@@ -1,4 +1,2 @@
-# RockPaperScissors
-This is a very simple beginner python code for rock paper scissors
-
-Credits are given to https://www.youtube.com/watch?v=eWRfhZUzrAc&t=7723s&ab_channel=freeCodeCamp.org
+# Rock Paper Scissors
+This program for allows the user to choose how many games they would like to play of rock paper scissors, then they play against a bot. It keeps track of the score.
